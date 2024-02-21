@@ -4,13 +4,12 @@ body {
 }
 
 a {
-  color: #38598b;
+  color: #f70776;
 }
 
 .container {
   margin: 120px auto;
   max-width: 600px;
-  background: #e7eaf6;
 }
 
 header {
@@ -46,7 +45,7 @@ form {
 
 .submit-button {
   margin-left: 10px;
-  background: #885df1;
+  background: #f70776;
   color: white;
   border: none;
   width: 150px;
@@ -60,7 +59,7 @@ form {
   background: #e7eaf6;
   padding: 20px;
   line-height: 2;
-  border-left: 3px solid #38598b;
+  border-left: 3px solid #f70776;
   box-shadow: 0px 4px 30px 0px rgba(39, 33, 66, 0.03);
 }
 
