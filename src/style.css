@@ -4,12 +4,13 @@ body {
 }
 
 a {
-  color: #885df1;
+  color: #38598b;
 }
 
 .container {
   margin: 120px auto;
   max-width: 600px;
+  background: #e7eaf6;
 }
 
 header {
@@ -21,12 +22,12 @@ h1 {
   font-weight: 800;
   font-size: 36px;
   line-height: 1.5;
-  color: #272044;
+  color: #113f67;
 }
 
 form {
   padding: 30px;
-  background-color: white;
+  background: #e7eaf6;
   box-shadow: 0px 20px 60px rgba(65, 50, 100, 0.08);
   border-radius: 10px;
   display: flex;
@@ -56,10 +57,10 @@ form {
 
 .poem {
   font-size: 16px;
-  background-color: #fff;
+  background: #e7eaf6;
   padding: 20px;
   line-height: 2;
-  border-left: 3px solid #885df1;
+  border-left: 3px solid #38598b;
   box-shadow: 0px 4px 30px 0px rgba(39, 33, 66, 0.03);
 }
 
