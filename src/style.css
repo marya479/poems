@@ -23,6 +23,13 @@ h1 {
   line-height: 1.5;
   color: #113f67;
 }
+.form-container {
+  background-color: #e7eaf6;
+  margin-bottom: 30px;
+  border-radius: 10px;
+  box-shadow: 0px 20px 60px rgba(65, 50, 100, 0.08);
+  padding: 15px 20px;
+}
 
 form {
   padding: 30px;
